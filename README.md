@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Martim Ramos 👋
 
-<!--
-**ramos-99/ramos-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd year Computer Science student based in Lisbon.
+I've just started my journey on GitHub to share what I'm learning. I'm deeply interested in **Cybersecurity**, **AI**, and **Software Development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramos-99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Martim's Github Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="180"/>
+</div>
+
+### 🚀 Latest Projects
