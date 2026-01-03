@@ -1,9 +1,27 @@
-# Hi there, I'm Martim Ramos 👋
+<div align="center">
+
+<pre>
+      ╔══════════════════════════════════════════════╗
+      ║                                              ║
+      ║   [root@ramos-99 ~]# _                       ║
+      ║                                              ║
+      ║   > Loading cybersecurity modules...   [OK]  ║
+      ║   > Initializing AI neural nets...     [OK]  ║
+      ║   > Mounting development env...        [OK]  ║
+      ║                                              ║
+      ╚══════════════════════════════════════════════╝
+            ||                            ||
+         =========                    =========
+</pre>
+
+# Martim Ramos
 
 I'm a 3rd year Computer Science student based in Lisbon.
-I've just started my journey on GitHub to share what I'm learning. I'm deeply interested in **Cybersecurity**, **AI**, and **Software Development**.
+I'm deeply interested in **Cybersecurity**, **AI**, and **Software Development**.
 
 ---
+
+</div>
 
 ### 🔧 Technologies & Tools
 <p align="left">
@@ -23,4 +41,4 @@ I've just started my journey on GitHub to share what I'm learning. I'm deeply in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="180"/>
 </div>
 
-### 🚀 Latest Projects
+### 🚀 Latest Projects 👇
