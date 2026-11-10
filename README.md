@@ -1,6 +1,6 @@
 # Martim Ramos
 
-Computer Engineer (IST Lisbon) · 
+MSc Computer Engineering Student @ IST
 
 Focused on Linux internals and eBPF, currently building [truetop](https://github.com/ramos-99/truetop), a Rust system monitor that hooks the kernel directly instead of polling /proc.
 
